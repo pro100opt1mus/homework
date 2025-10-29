@@ -3,7 +3,6 @@
 
 const double E = 1e-10;
 
-// Прототипы функций
 bool equal(double a, double b);
 double f1(double angle);
 double f2(double angle);
@@ -30,12 +29,12 @@ int main() {
     return 0;
 }
 
-// Реализация функций
-
 bool equal(double a, double b) {
     return std::fabs(a - b) < E;
 }
+/*
 
+*/
 double f1(double angle) {
     double a2 = 2.0 * angle;
     if (equal(std::cos(a2), 1.0)) {
