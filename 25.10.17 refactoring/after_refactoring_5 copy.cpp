@@ -1,10 +1,7 @@
 #include <iostream>
 #include <string>
 
-const std::string DAY_NAMES[7] = {
-    "Воскресенье", "Понедельник", "Вторник", "Среда",
-    "Четверг", "Пятница", "Суббота"
-};
+
 
 int main() {
     int day, month, year;
@@ -39,7 +36,12 @@ int main() {
         day_of_week += 7;
     }
 
-    std::cout << "День недели: " << DAY_NAMES[day_of_week] << std::endl;
+
+    const std::string day_names[7] = {
+        "Воскресенье", "Понедельник", "Вторник", "Среда",
+        "Четверг", "Пятница", "Суббота"
+    };
+    std::cout << "День недели: " << day_names[day_of_week] << std::endl;
 
     std::cout << "Нажмите Enter для выхода...";
     std::cin.ignore();
