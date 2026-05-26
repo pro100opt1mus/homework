@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcontainers_lib.a CMakeFiles/containers_lib.dir/src/doubly_linked_list.cpp.o CMakeFiles/containers_lib.dir/src/vector.cpp.o
+/usr/bin/ranlib libcontainers_lib.a

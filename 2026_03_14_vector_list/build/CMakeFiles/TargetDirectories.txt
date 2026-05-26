@@ -1,0 +1,12 @@
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/CMakeFiles/containers_lib.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/CMakeFiles/test.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/CMakeFiles/edit_cache.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/CMakeFiles/rebuild_cache.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/src/CMakeFiles/test.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/src/CMakeFiles/edit_cache.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/src/CMakeFiles/rebuild_cache.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/test/CMakeFiles/doubly_linked_list_tests.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/test/CMakeFiles/vector_tests.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/test/CMakeFiles/test.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/test/CMakeFiles/edit_cache.dir
+/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/test/CMakeFiles/rebuild_cache.dir

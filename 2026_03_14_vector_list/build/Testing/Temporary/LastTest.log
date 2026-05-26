@@ -1,0 +1,71 @@
+Start testing: May 23 15:23 MSK
+----------------------------------------------------------
+1/2 Testing: doubly_linked_list_tests
+1/2 Test: doubly_linked_list_tests
+Command: "/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/test/doubly_linked_list_tests"
+Directory: /Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/test
+"doubly_linked_list_tests" start time: May 23 15:23 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 5 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 5 tests from DoublyLinkedList
+[ RUN      ] DoublyLinkedList.DefaultIsEmpty
+[       OK ] DoublyLinkedList.DefaultIsEmpty (0 ms)
+[ RUN      ] DoublyLinkedList.PushBackStoresOrder
+[       OK ] DoublyLinkedList.PushBackStoresOrder (0 ms)
+[ RUN      ] DoublyLinkedList.HasItemFindsValue
+[       OK ] DoublyLinkedList.HasItemFindsValue (0 ms)
+[ RUN      ] DoublyLinkedList.RemoveFirstWorksInMiddle
+[       OK ] DoublyLinkedList.RemoveFirstWorksInMiddle (0 ms)
+[ RUN      ] DoublyLinkedList.RemoveFirstWorksForHeadAndTail
+[       OK ] DoublyLinkedList.RemoveFirstWorksForHeadAndTail (0 ms)
+[----------] 5 tests from DoublyLinkedList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.69 sec
+----------------------------------------------------------
+Test Passed.
+"doubly_linked_list_tests" end time: May 23 15:23 MSK
+"doubly_linked_list_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: vector_tests
+2/2 Test: vector_tests
+Command: "/Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/test/vector_tests"
+Directory: /Users/artembondarenko/my_cpp_project/2026_03_14_vector_list/build/test
+"vector_tests" start time: May 23 15:23 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from Vector
+[ RUN      ] Vector.DefaultIsEmpty
+[       OK ] Vector.DefaultIsEmpty (0 ms)
+[ RUN      ] Vector.PushBackStoresValues
+[       OK ] Vector.PushBackStoresValues (0 ms)
+[ RUN      ] Vector.InsertWorksInMiddle
+[       OK ] Vector.InsertWorksInMiddle (0 ms)
+[ RUN      ] Vector.InsertWrongPositionReturnsFalse
+[       OK ] Vector.InsertWrongPositionReturnsFalse (0 ms)
+[ RUN      ] Vector.RemoveFirstRemovesOnlyOneValue
+[       OK ] Vector.RemoveFirstRemovesOnlyOneValue (0 ms)
+[ RUN      ] Vector.PushBackWorksAfterResize
+[       OK ] Vector.PushBackWorksAfterResize (0 ms)
+[----------] 6 tests from Vector (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"vector_tests" end time: May 23 15:23 MSK
+"vector_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 23 15:23 MSK

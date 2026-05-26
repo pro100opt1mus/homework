@@ -1,0 +1,50 @@
+Start testing: May 16 16:23 MSK
+----------------------------------------------------------
+1/1 Testing: test_long_numbers
+1/1 Test: test_long_numbers
+Command: "/Users/artembondarenko/my_cpp_project/hw4_14.03/build/projects/long_numbers/test/test_long_numbers"
+Directory: /Users/artembondarenko/my_cpp_project/hw4_14.03/build/projects/long_numbers/test
+"test_long_numbers" start time: May 16 16:23 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 12 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 12 tests from LongNumber
+[ RUN      ] LongNumber.DefaultIsNotNegative
+[       OK ] LongNumber.DefaultIsNotNegative (0 ms)
+[ RUN      ] LongNumber.PlusSimple
+[       OK ] LongNumber.PlusSimple (0 ms)
+[ RUN      ] LongNumber.PlusCarry
+[       OK ] LongNumber.PlusCarry (0 ms)
+[ RUN      ] LongNumber.PlusDifferentLengths
+[       OK ] LongNumber.PlusDifferentLengths (0 ms)
+[ RUN      ] LongNumber.PlusZero
+[       OK ] LongNumber.PlusZero (0 ms)
+[ RUN      ] LongNumber.ComparePositive
+[       OK ] LongNumber.ComparePositive (0 ms)
+[ RUN      ] LongNumber.CompareNegative
+[       OK ] LongNumber.CompareNegative (0 ms)
+[ RUN      ] LongNumber.CompareEqual
+[       OK ] LongNumber.CompareEqual (0 ms)
+[ RUN      ] LongNumber.MinusSimple
+[       OK ] LongNumber.MinusSimple (0 ms)
+[ RUN      ] LongNumber.MultiplySimple
+[       OK ] LongNumber.MultiplySimple (0 ms)
+[ RUN      ] LongNumber.DivideSimple
+[       OK ] LongNumber.DivideSimple (0 ms)
+[ RUN      ] LongNumber.ModSimple
+[       OK ] LongNumber.ModSimple (0 ms)
+[----------] 12 tests from LongNumber (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 12 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 12 tests.
+<end of output>
+Test time =   0.97 sec
+----------------------------------------------------------
+Test Passed.
+"test_long_numbers" end time: May 16 16:23 MSK
+"test_long_numbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 16 16:23 MSK

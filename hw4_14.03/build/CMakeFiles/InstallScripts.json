@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/artembondarenko/my_cpp_project/hw4_14.03/build/cmake_install.cmake",
+		"/Users/artembondarenko/my_cpp_project/hw4_14.03/build/lib/googletest/cmake_install.cmake",
+		"/Users/artembondarenko/my_cpp_project/hw4_14.03/build/lib/googletest/googlemock/cmake_install.cmake",
+		"/Users/artembondarenko/my_cpp_project/hw4_14.03/build/lib/googletest/googletest/cmake_install.cmake",
+		"/Users/artembondarenko/my_cpp_project/hw4_14.03/build/projects/cmake_install.cmake",
+		"/Users/artembondarenko/my_cpp_project/hw4_14.03/build/projects/long_numbers/cmake_install.cmake",
+		"/Users/artembondarenko/my_cpp_project/hw4_14.03/build/projects/long_numbers/src/cmake_install.cmake",
+		"/Users/artembondarenko/my_cpp_project/hw4_14.03/build/projects/long_numbers/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
